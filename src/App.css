@@ -1,0 +1,14 @@
+.Container{
+  width:15rem;
+}
+.Dashboard{
+  width: 40rem;
+  
+}
+.Size{
+  width:auto;
+  background:darkcyan;
+}
+.Ownersize{
+  border-width: 100%;
+}
